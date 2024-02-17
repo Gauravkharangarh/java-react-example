@@ -1,4 +1,7 @@
-# Java-React Example
+MAKE SURE YOU USE JAVA 8 and Wrapper with this Project because some dependencies require old versions
+
+
+# Java-React Example 
 
 An example of how to use JS frontend to consume an endpoint written in Java.
 
